@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Zhang Hang
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning database
-- 💞️ I’m looking to collaborate on iotdb
+- 👋 Hi, I’m Zhang Hang.
+- 👀 I’m interested in computer science.
+- ✨ I'm engaged in improving my programming skills.
+- 🌱 My research fields are database and time series.
+- 💞️ I’m looking to collaborate on IoTDB.
 - 📫 You can reach me at zhanghang21@m.fudan.edu.cn
 
 <!---
