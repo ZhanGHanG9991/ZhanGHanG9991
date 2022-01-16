@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Zhang Hang.
-- 👀 I’m interested in computer science.
+- 👋 Hi, I’m Hang Zhang.
 - ✨ I'm engaged in improving my programming skills.
 - 🌱 My research fields are database and time series.
 - 💞️ I’m looking to collaborate on IoTDB.
