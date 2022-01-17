@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hang Zhang.
+- 👋 Hi, I’m Hang Zhang, a postgraduate at Fudan University.
 - ✨ I'm engaged in improving my programming skills.
 - 🌱 My research fields are database and time series.
 - 💞️ I’m looking to collaborate on IoTDB.
