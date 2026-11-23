@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hang Zhang, a Ph.D. student at Tsinghua University, majoring in software engineering.
+- 👋 Hi, I’m Hang Zhang, a Ph.D. student at Tsinghua University.
 - ✨ I’m exploring the intersection of large language models, databases, and software engineering.
 - 🌱 My research interests include Natural Language Interfaces to Databases (NLIDB), Code Generation, Retrieval-Augmented Generation (RAG), and AutoResearch.
 - 📫 You can reach me at zhanghang24@mails.tsinghua.edu.cn
